@@ -1,0 +1,71 @@
+body {
+    background-image: url(img/pattern.jpg);
+    margin-top: 55px;
+}
+
+
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: white;
+}
+
+header img {
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-right: 20px;
+}
+
+nav li {
+    display: inline;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* Akhir Header */
+
+
+/* Section */
+section {
+    background-color: white;
+    margin: 0 50px;
+    padding: 10px;
+}
+
+section h1 {
+    text-align: center;
+}
+
+article {
+    border-bottom: 3px solid gray;
+}
+
+/* Akhir Section */
+
+
+/* Footer */
+footer {
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+
+footer h5 {
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+
+/* Akhir Footer */
