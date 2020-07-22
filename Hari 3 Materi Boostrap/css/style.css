@@ -1,0 +1,13 @@
+/* .jumbotron {
+    background-image: url(../img/cake.jpg);
+    height: 500px;
+    background-size: cover;
+} */
+.carousel-item {
+    height: 490px;
+}
+
+
+.konten li a {
+    color: white;
+}
