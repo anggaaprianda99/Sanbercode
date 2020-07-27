@@ -32,6 +32,13 @@
 
 
         $second_sentence = "I'm ready for the challenges"; // Panjang string: 28,  jumlah kata: 5
+         echo($second_sentence);
+        echo("<br>");
+        echo("Panjang String adalah ");
+        echo strlen($second_sentence);
+        echo("<br>");
+        echo("Panjang Kata adalah ");
+        echo str_word_count($second_sentence);
         
         echo "<h3> Soal No 2</h3>";
         /* 
